@@ -1,0 +1,52 @@
+{
+  "GUID": "8437ad",
+  "Name": "3DText",
+  "Transform": {
+    "posX": 20.1554947,
+    "posY": 1.50001752,
+    "posZ": 11.2766294,
+    "rotX": 90,
+    "rotY": 0.499802,
+    "rotZ": 0,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Nickname": "",
+  "Description": "",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 1,
+    "g": 1,
+    "b": 1
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": true,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": false,
+  "Hands": false,
+  "Text": {
+    "Text": "Активні завдання",
+    "colorstate": {
+      "r": 0.168627456,
+      "g": 0.619607866,
+      "b": 0.9019608
+    },
+    "fontSize": 64
+  },
+  "XmlUI": ""
+}

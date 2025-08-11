@@ -1,0 +1,56 @@
+{
+  "GUID": "8c5d43",
+  "Name": "Card",
+  "Transform": {
+    "posX": 20.56319,
+    "posY": 1.52965665,
+    "posZ": 18.9072876,
+    "rotX": 0.0215169862,
+    "rotY": 180.000015,
+    "rotZ": 0.06207134,
+    "scaleX": 0.7338714,
+    "scaleY": 1,
+    "scaleZ": 0.7338714
+  },
+  "Nickname": "З 2",
+  "Description": "",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": false,
+  "Hands": true,
+  "CardID": 401,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "4": {
+      "FaceURL": "https://drive.google.com/uc?export=download&id=1smRNqgkL-tY_YU7AJd58mEkNGhxse8ke",
+      "BackURL": "https://drive.google.com/uc?export=download&id=1-avVkJnnmb89wovRLp82flciqzK7EDWJ",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": false,
+      "UniqueBack": true,
+      "Type": 0
+    }
+  },
+  "XmlUI": ""
+}

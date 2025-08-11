@@ -1,0 +1,56 @@
+{
+  "GUID": "dd556e",
+  "Name": "Card",
+  "Transform": {
+    "posX": 19.5321941,
+    "posY": 2.94037986,
+    "posZ": 15.4900513,
+    "rotX": 0.0138246557,
+    "rotY": 180,
+    "rotZ": 180.064026,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Nickname": "З 71",
+  "Description": "",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": false,
+  "Hands": true,
+  "CardID": 300,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "3": {
+      "FaceURL": "https://drive.google.com/uc?export=download&id=1hAgITJeiz9LAKOOu7spDXagrTO-D5Fci",
+      "BackURL": "https://drive.google.com/uc?export=download&id=1r9nv7duj_z8AxXPHdMjS-4acMPbMWoSU",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": false,
+      "UniqueBack": true,
+      "Type": 0
+    }
+  },
+  "XmlUI": ""
+}
