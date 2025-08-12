@@ -354,8 +354,6 @@
           "Type": 0
         }
       },
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": ""
     },
     {
@@ -412,8 +410,6 @@
           "Type": 0
         }
       },
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": ""
     },
     {
@@ -470,8 +466,6 @@
           "Type": 0
         }
       },
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": ""
     },
     {
@@ -516,8 +510,6 @@
       "Hands": true,
       "CardID": 403,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -563,8 +555,6 @@
       "Hands": true,
       "CardID": 404,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -610,8 +600,6 @@
       "Hands": true,
       "CardID": 405,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -657,8 +645,6 @@
       "Hands": true,
       "CardID": 406,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -704,8 +690,6 @@
       "Hands": true,
       "CardID": 407,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -751,8 +735,6 @@
       "Hands": true,
       "CardID": 408,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -798,8 +780,6 @@
       "Hands": true,
       "CardID": 409,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -845,8 +825,6 @@
       "Hands": true,
       "CardID": 410,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -892,8 +870,6 @@
       "Hands": true,
       "CardID": 411,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -939,8 +915,6 @@
       "Hands": true,
       "CardID": 412,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -986,8 +960,6 @@
       "Hands": true,
       "CardID": 413,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -1033,8 +1005,6 @@
       "Hands": true,
       "CardID": 414,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -1080,8 +1050,6 @@
       "Hands": true,
       "CardID": 415,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -1127,8 +1095,6 @@
       "Hands": true,
       "CardID": 416,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -1174,8 +1140,6 @@
       "Hands": true,
       "CardID": 417,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -1221,8 +1185,6 @@
       "Hands": true,
       "CardID": 418,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -1268,8 +1230,6 @@
       "Hands": true,
       "CardID": 419,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -1315,8 +1275,6 @@
       "Hands": true,
       "CardID": 420,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -1362,8 +1320,6 @@
       "Hands": true,
       "CardID": 421,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -1409,8 +1365,6 @@
       "Hands": true,
       "CardID": 422,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -1456,8 +1410,6 @@
       "Hands": true,
       "CardID": 423,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -1503,8 +1455,6 @@
       "Hands": true,
       "CardID": 424,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -1550,8 +1500,6 @@
       "Hands": true,
       "CardID": 425,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -1597,8 +1545,6 @@
       "Hands": true,
       "CardID": 426,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -1644,8 +1590,6 @@
       "Hands": true,
       "CardID": 427,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -1691,8 +1635,6 @@
       "Hands": true,
       "CardID": 428,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -1738,8 +1680,6 @@
       "Hands": true,
       "CardID": 429,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -1785,8 +1725,6 @@
       "Hands": true,
       "CardID": 430,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -1832,8 +1770,6 @@
       "Hands": true,
       "CardID": 431,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -1879,8 +1815,6 @@
       "Hands": true,
       "CardID": 432,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -1926,8 +1860,6 @@
       "Hands": true,
       "CardID": 433,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -1973,8 +1905,6 @@
       "Hands": true,
       "CardID": 434,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -2020,8 +1950,6 @@
       "Hands": true,
       "CardID": 435,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -2067,8 +1995,6 @@
       "Hands": true,
       "CardID": 436,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -2114,8 +2040,6 @@
       "Hands": true,
       "CardID": 437,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -2161,8 +2085,6 @@
       "Hands": true,
       "CardID": 438,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -2208,8 +2130,6 @@
       "Hands": true,
       "CardID": 439,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -2255,8 +2175,6 @@
       "Hands": true,
       "CardID": 440,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -2302,8 +2220,6 @@
       "Hands": true,
       "CardID": 441,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -2349,8 +2265,6 @@
       "Hands": true,
       "CardID": 442,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -2396,8 +2310,6 @@
       "Hands": true,
       "CardID": 443,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -2443,8 +2355,6 @@
       "Hands": true,
       "CardID": 444,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -2490,8 +2400,6 @@
       "Hands": true,
       "CardID": 445,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -2537,8 +2445,6 @@
       "Hands": true,
       "CardID": 446,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -2584,8 +2490,6 @@
       "Hands": true,
       "CardID": 447,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -2631,8 +2535,6 @@
       "Hands": true,
       "CardID": 448,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -2678,8 +2580,6 @@
       "Hands": true,
       "CardID": 449,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -2725,8 +2625,6 @@
       "Hands": true,
       "CardID": 450,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -2772,8 +2670,6 @@
       "Hands": true,
       "CardID": 451,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -2819,8 +2715,6 @@
       "Hands": true,
       "CardID": 452,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -2866,8 +2760,6 @@
       "Hands": true,
       "CardID": 453,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -2913,8 +2805,6 @@
       "Hands": true,
       "CardID": 454,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -2960,8 +2850,6 @@
       "Hands": true,
       "CardID": 455,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -3007,8 +2895,6 @@
       "Hands": true,
       "CardID": 456,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -3054,8 +2940,6 @@
       "Hands": true,
       "CardID": 457,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -3101,8 +2985,6 @@
       "Hands": true,
       "CardID": 458,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -3148,8 +3030,6 @@
       "Hands": true,
       "CardID": 459,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -3195,8 +3075,6 @@
       "Hands": true,
       "CardID": 460,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -3242,8 +3120,6 @@
       "Hands": true,
       "CardID": 461,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -3289,8 +3165,6 @@
       "Hands": true,
       "CardID": 462,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -3336,8 +3210,6 @@
       "Hands": true,
       "CardID": 463,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -3383,8 +3255,6 @@
       "Hands": true,
       "CardID": 464,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -3430,8 +3300,6 @@
       "Hands": true,
       "CardID": 465,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -3477,8 +3345,6 @@
       "Hands": true,
       "CardID": 466,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -3524,8 +3390,6 @@
       "Hands": true,
       "CardID": 467,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -3571,8 +3435,6 @@
       "Hands": true,
       "CardID": 468,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -3618,8 +3480,6 @@
       "Hands": true,
       "CardID": 469,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -3677,8 +3537,6 @@
           "Type": 0
         }
       },
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": ""
     },
     {
@@ -3723,8 +3581,6 @@
       "Hands": true,
       "CardID": 301,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -3770,8 +3626,6 @@
       "Hands": true,
       "CardID": 302,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -3817,8 +3671,6 @@
       "Hands": true,
       "CardID": 303,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -3864,8 +3716,6 @@
       "Hands": true,
       "CardID": 304,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -3911,8 +3761,6 @@
       "Hands": true,
       "CardID": 305,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -3958,8 +3806,6 @@
       "Hands": true,
       "CardID": 306,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -4005,8 +3851,6 @@
       "Hands": true,
       "CardID": 307,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -4052,8 +3896,6 @@
       "Hands": true,
       "CardID": 308,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -4099,8 +3941,6 @@
       "Hands": true,
       "CardID": 309,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -4146,8 +3986,6 @@
       "Hands": true,
       "CardID": 310,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -4193,8 +4031,6 @@
       "Hands": true,
       "CardID": 311,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -4240,8 +4076,6 @@
       "Hands": true,
       "CardID": 312,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -4287,8 +4121,6 @@
       "Hands": true,
       "CardID": 313,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -4334,8 +4166,6 @@
       "Hands": true,
       "CardID": 314,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -4381,8 +4211,6 @@
       "Hands": true,
       "CardID": 315,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -4428,8 +4256,6 @@
       "Hands": true,
       "CardID": 316,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -4475,8 +4301,6 @@
       "Hands": true,
       "CardID": 317,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -4522,8 +4346,6 @@
       "Hands": true,
       "CardID": 318,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -4569,8 +4391,6 @@
       "Hands": true,
       "CardID": 319,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -4616,8 +4436,6 @@
       "Hands": true,
       "CardID": 320,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -4663,8 +4481,6 @@
       "Hands": true,
       "CardID": 321,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -4710,8 +4526,6 @@
       "Hands": true,
       "CardID": 322,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -4757,8 +4571,6 @@
       "Hands": true,
       "CardID": 323,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -4804,8 +4616,6 @@
       "Hands": true,
       "CardID": 324,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -4851,8 +4661,6 @@
       "Hands": true,
       "CardID": 325,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -4898,8 +4706,6 @@
       "Hands": true,
       "CardID": 326,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -4945,8 +4751,6 @@
       "Hands": true,
       "CardID": 327,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -4992,8 +4796,6 @@
       "Hands": true,
       "CardID": 328,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -5039,8 +4841,6 @@
       "Hands": true,
       "CardID": 329,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -5086,8 +4886,6 @@
       "Hands": true,
       "CardID": 330,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -5133,8 +4931,6 @@
       "Hands": true,
       "CardID": 331,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -5180,8 +4976,6 @@
       "Hands": true,
       "CardID": 332,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -5227,8 +5021,6 @@
       "Hands": true,
       "CardID": 333,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -5274,8 +5066,6 @@
       "Hands": true,
       "CardID": 334,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -5321,8 +5111,6 @@
       "Hands": true,
       "CardID": 335,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -5368,8 +5156,6 @@
       "Hands": true,
       "CardID": 336,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -5415,8 +5201,6 @@
       "Hands": true,
       "CardID": 337,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -5462,8 +5246,6 @@
       "Hands": true,
       "CardID": 338,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -5509,8 +5291,6 @@
       "Hands": true,
       "CardID": 339,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -5556,8 +5336,6 @@
       "Hands": true,
       "CardID": 340,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -5603,8 +5381,6 @@
       "Hands": true,
       "CardID": 341,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -5650,8 +5426,6 @@
       "Hands": true,
       "CardID": 342,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -5697,8 +5471,6 @@
       "Hands": true,
       "CardID": 343,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -5744,8 +5516,6 @@
       "Hands": true,
       "CardID": 344,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -5791,8 +5561,6 @@
       "Hands": true,
       "CardID": 345,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -5838,8 +5606,6 @@
       "Hands": true,
       "CardID": 346,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -5885,8 +5651,6 @@
       "Hands": true,
       "CardID": 347,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -5932,8 +5696,6 @@
       "Hands": true,
       "CardID": 348,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -5979,8 +5741,6 @@
       "Hands": true,
       "CardID": 349,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -6026,8 +5786,6 @@
       "Hands": true,
       "CardID": 350,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -6073,8 +5831,6 @@
       "Hands": true,
       "CardID": 351,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -6120,8 +5876,6 @@
       "Hands": true,
       "CardID": 352,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -6167,8 +5921,6 @@
       "Hands": true,
       "CardID": 353,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -6214,8 +5966,6 @@
       "Hands": true,
       "CardID": 354,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -6261,8 +6011,6 @@
       "Hands": true,
       "CardID": 355,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -6308,8 +6056,6 @@
       "Hands": true,
       "CardID": 356,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -6355,8 +6101,6 @@
       "Hands": true,
       "CardID": 357,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -6402,8 +6146,6 @@
       "Hands": true,
       "CardID": 358,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -6449,8 +6191,6 @@
       "Hands": true,
       "CardID": 359,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -6496,8 +6236,6 @@
       "Hands": true,
       "CardID": 360,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -6543,8 +6281,6 @@
       "Hands": true,
       "CardID": 361,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -6590,8 +6326,6 @@
       "Hands": true,
       "CardID": 362,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -6637,8 +6371,6 @@
       "Hands": true,
       "CardID": 363,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -6684,8 +6416,6 @@
       "Hands": true,
       "CardID": 364,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -6731,8 +6461,6 @@
       "Hands": true,
       "CardID": 365,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -6778,8 +6506,6 @@
       "Hands": true,
       "CardID": 366,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -6825,8 +6551,6 @@
       "Hands": true,
       "CardID": 367,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -6872,8 +6596,6 @@
       "Hands": true,
       "CardID": 368,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -6919,8 +6641,6 @@
       "Hands": true,
       "CardID": 369,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -6978,8 +6698,6 @@
           "Type": 0
         }
       },
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": ""
     },
     {
@@ -7024,8 +6742,6 @@
       "Hands": true,
       "CardID": 201,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -7071,8 +6787,6 @@
       "Hands": true,
       "CardID": 202,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -7118,8 +6832,6 @@
       "Hands": true,
       "CardID": 203,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -7165,8 +6877,6 @@
       "Hands": true,
       "CardID": 204,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -7212,8 +6922,6 @@
       "Hands": true,
       "CardID": 205,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -7259,8 +6967,6 @@
       "Hands": true,
       "CardID": 206,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -7306,8 +7012,6 @@
       "Hands": true,
       "CardID": 207,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -7353,8 +7057,6 @@
       "Hands": true,
       "CardID": 208,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -7400,8 +7102,6 @@
       "Hands": true,
       "CardID": 209,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -7447,8 +7147,6 @@
       "Hands": true,
       "CardID": 210,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -7494,8 +7192,6 @@
       "Hands": true,
       "CardID": 211,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -7541,8 +7237,6 @@
       "Hands": true,
       "CardID": 212,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -7588,8 +7282,6 @@
       "Hands": true,
       "CardID": 213,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -7635,8 +7327,6 @@
       "Hands": true,
       "CardID": 214,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -7682,8 +7372,6 @@
       "Hands": true,
       "CardID": 215,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -7729,8 +7417,6 @@
       "Hands": true,
       "CardID": 216,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -7776,8 +7462,6 @@
       "Hands": true,
       "CardID": 217,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -7823,8 +7507,6 @@
       "Hands": true,
       "CardID": 218,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -7870,8 +7552,6 @@
       "Hands": true,
       "CardID": 219,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -7917,8 +7597,6 @@
       "Hands": true,
       "CardID": 220,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -7964,8 +7642,6 @@
       "Hands": true,
       "CardID": 221,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -8011,8 +7687,6 @@
       "Hands": true,
       "CardID": 222,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -8058,8 +7732,6 @@
       "Hands": true,
       "CardID": 223,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -8105,8 +7777,6 @@
       "Hands": true,
       "CardID": 224,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -8152,8 +7822,6 @@
       "Hands": true,
       "CardID": 225,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -8199,8 +7867,6 @@
       "Hands": true,
       "CardID": 226,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -8246,8 +7912,6 @@
       "Hands": true,
       "CardID": 227,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -8293,8 +7957,6 @@
       "Hands": true,
       "CardID": 228,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -8340,8 +8002,6 @@
       "Hands": true,
       "CardID": 229,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -8387,8 +8047,6 @@
       "Hands": true,
       "CardID": 230,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -8434,8 +8092,6 @@
       "Hands": true,
       "CardID": 231,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -8481,8 +8137,6 @@
       "Hands": true,
       "CardID": 232,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -8528,8 +8182,6 @@
       "Hands": true,
       "CardID": 233,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -8575,8 +8227,6 @@
       "Hands": true,
       "CardID": 234,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -8622,8 +8272,6 @@
       "Hands": true,
       "CardID": 235,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -8669,8 +8317,6 @@
       "Hands": true,
       "CardID": 236,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -8716,8 +8362,6 @@
       "Hands": true,
       "CardID": 237,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -8763,8 +8407,6 @@
       "Hands": true,
       "CardID": 238,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -8810,8 +8452,6 @@
       "Hands": true,
       "CardID": 239,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -8857,8 +8497,6 @@
       "Hands": true,
       "CardID": 240,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -8904,8 +8542,6 @@
       "Hands": true,
       "CardID": 241,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -8951,8 +8587,6 @@
       "Hands": true,
       "CardID": 242,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -8998,8 +8632,6 @@
       "Hands": true,
       "CardID": 243,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -9045,8 +8677,6 @@
       "Hands": true,
       "CardID": 244,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -9092,8 +8722,6 @@
       "Hands": true,
       "CardID": 245,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -9139,8 +8767,6 @@
       "Hands": true,
       "CardID": 246,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -9186,8 +8812,6 @@
       "Hands": true,
       "CardID": 247,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -9233,8 +8857,6 @@
       "Hands": true,
       "CardID": 248,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -9280,8 +8902,6 @@
       "Hands": true,
       "CardID": 249,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -9327,8 +8947,6 @@
       "Hands": true,
       "CardID": 250,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -9374,8 +8992,6 @@
       "Hands": true,
       "CardID": 251,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -9421,8 +9037,6 @@
       "Hands": true,
       "CardID": 252,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -9468,8 +9082,6 @@
       "Hands": true,
       "CardID": 253,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -9515,8 +9127,6 @@
       "Hands": true,
       "CardID": 254,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -9562,8 +9172,6 @@
       "Hands": true,
       "CardID": 255,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -9609,8 +9217,6 @@
       "Hands": true,
       "CardID": 256,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -9656,8 +9262,6 @@
       "Hands": true,
       "CardID": 257,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -9703,8 +9307,6 @@
       "Hands": true,
       "CardID": 258,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -9750,8 +9352,6 @@
       "Hands": true,
       "CardID": 259,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -9797,8 +9397,6 @@
       "Hands": true,
       "CardID": 260,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -9844,8 +9442,6 @@
       "Hands": true,
       "CardID": 261,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -9891,8 +9487,6 @@
       "Hands": true,
       "CardID": 262,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -9938,8 +9532,6 @@
       "Hands": true,
       "CardID": 263,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -9985,8 +9577,6 @@
       "Hands": true,
       "CardID": 264,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -10032,8 +9622,6 @@
       "Hands": true,
       "CardID": 265,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -10079,8 +9667,6 @@
       "Hands": true,
       "CardID": 266,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -10126,8 +9712,6 @@
       "Hands": true,
       "CardID": 267,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -10173,8 +9757,6 @@
       "Hands": true,
       "CardID": 268,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -10232,8 +9814,6 @@
           "Type": 0
         }
       },
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": ""
     },
     {
@@ -10278,8 +9858,6 @@
       "Hands": true,
       "CardID": 100,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -10325,8 +9903,6 @@
       "Hands": true,
       "CardID": 101,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -10372,8 +9948,6 @@
       "Hands": true,
       "CardID": 102,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -10419,8 +9993,6 @@
       "Hands": true,
       "CardID": 103,
       "SidewaysCard": false,
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": "",
       "ContainedObjects": []
     },
@@ -10478,8 +10050,6 @@
           "Type": 0
         }
       },
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": ""
     },
     {
@@ -10536,8 +10106,6 @@
           "Type": 0
         }
       },
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": ""
     },
     {
@@ -10594,8 +10162,6 @@
           "Type": 0
         }
       },
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": ""
     },
     {
@@ -10652,8 +10218,6 @@
           "Type": 0
         }
       },
-      "LuaScript": "",
-      "LuaScriptState": "",
       "XmlUI": ""
     }
   ]

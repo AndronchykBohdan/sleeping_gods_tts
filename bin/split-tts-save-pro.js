@@ -3,12 +3,11 @@ require('dotenv').config();
 const fs = require('fs');
 const path = require('path');
 
-// Input path from .env (fallback to arg or ./Save.json)
 const inputPath = process.env.INPUT_SAVE || process.argv[2] || './Save.json';
 const outputDir = './src';
 const manifest = [];
 
-// Unicode-safe sanitize
+// Unicode-safe sanitize (stable across OS)
 const sanitize = (str, fallback = 'unnamed') => {
   let s = String(str || '')
     .normalize('NFC')
@@ -20,6 +19,8 @@ const sanitize = (str, fallback = 'unnamed') => {
   if (!s) s = fallback;
   return s.slice(0, 50);
 };
+
+const padIndex = (i) => String(i).padStart(3, '0');
 
 function cleanDirectory(dirPath) {
   if (!fs.existsSync(dirPath)) return;
@@ -47,11 +48,11 @@ function generateTopLevelFilename(obj) {
   return `${name}_${guid}.json`;
 }
 
-// Nested filename (inside Contained): Name_GUID.json  (no Nickname)
-function generateNestedFilename(obj) {
+// Nested filename (inside Contained): 000_Name_GUID.json
+function generateNestedFilename(obj, orderIndex) {
   const name = sanitize(obj.Name || 'Object');
   const guid = sanitize(obj.GUID || 'noguid');
-  return `${name}_${guid}.json`;
+  return `${padIndex(orderIndex)}_${name}_${guid}.json`;
 }
 
 // Folder for children: Contained/<NicknameOrName>_<GUID>
@@ -61,9 +62,14 @@ function generateContainerRelPath(parentObj) {
   return path.join('Contained', `${label}_${guid}`);
 }
 
-function saveObjectToFile(obj, relativePath, parentGuid = null) {
+/**
+ * Save object to disk and append to manifest.
+ */
+function saveObjectToFile(obj, relativePath, parentGuid = null, order = 0) {
   const isTopLevel = relativePath === '.';
-  const fileName = isTopLevel ? generateTopLevelFilename(obj) : generateNestedFilename(obj);
+  const fileName = isTopLevel
+    ? generateTopLevelFilename(obj)
+    : generateNestedFilename(obj, order);
 
   const dirPath = path.join(outputDir, relativePath);
   const jsonPath = path.join(dirPath, fileName);
@@ -83,21 +89,22 @@ function saveObjectToFile(obj, relativePath, parentGuid = null) {
   delete objToWrite.LuaScriptState;
   fs.writeFileSync(jsonPath, JSON.stringify(objToWrite, null, 2), 'utf-8');
 
-  // Manifest entry — parent is GUID only (stable)
+  // Manifest entry
   manifest.push({
     type: obj.Name || 'Object',
     name: obj.Name || null,
     nickname: obj.Nickname || null,
     guid: obj.GUID || null,
     file: path.join(relativePath, fileName),
-    parent: parentGuid, // GUID of parent or null at top level
+    parent: parentGuid,
+    order
   });
 
   // Recurse contained
   if (Array.isArray(obj.ContainedObjects) && obj.ContainedObjects.length) {
-    const containerRelPath = generateContainerRelPath(obj); // folder uses Nickname/Name + GUID
-    for (const child of obj.ContainedObjects) {
-      saveObjectToFile(child, containerRelPath, obj.GUID || null);
+    const containerRelPath = generateContainerRelPath(obj);
+    for (let i = 0; i < obj.ContainedObjects.length; i++) {
+      saveObjectToFile(obj.ContainedObjects[i], containerRelPath, obj.GUID || null, i);
     }
   }
 }
@@ -126,12 +133,12 @@ function main() {
     process.exit(1);
   }
 
-  // Split top-level objects
-  for (const obj of data.ObjectStates) {
-    saveObjectToFile(obj, '.');
+  // Top-level — без префиксов
+  for (let i = 0; i < data.ObjectStates.length; i++) {
+    saveObjectToFile(data.ObjectStates[i], '.', null, i);
   }
 
-  // Export Global scripts/UI and strip them from base
+  // Global scripts/UI
   const globalDir = path.join(outputDir, 'Global');
   fs.mkdirSync(globalDir, { recursive: true });
   if (data.LuaScript && String(data.LuaScript).trim()) {
@@ -150,6 +157,7 @@ function main() {
 
   console.log(`✅ Successfully split ${manifest.length} objects.`);
   console.log(`📤 Output saved in: ${outputDir}`);
+  console.log(`🔢 Numeric prefixes: children only`);
   console.log(`🔎 Global extracted: ${[
     !!data.LuaScript && 'Lua',
     !!data.LuaScriptState && 'State',
