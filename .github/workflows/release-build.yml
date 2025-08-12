@@ -16,13 +16,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # 2) Setup Node 22 and pnpm (via corepack)
+      # 2) Setup Node 22 and pnpm (via Corepack)
       - name: Setup Node 22 + pnpm
         uses: actions/setup-node@v4
         with:
           node-version: 22
           cache: 'pnpm'
       - run: corepack enable
+      - run: corepack prepare pnpm@latest --activate
 
       # 3) Install deps
       - name: Install dependencies
