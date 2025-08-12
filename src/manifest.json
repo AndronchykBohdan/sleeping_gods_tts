@@ -1,6 +1,7 @@
 [
   {
     "type": "HandTrigger",
+    "name": "HandTrigger",
     "nickname": null,
     "guid": "e8ffe5",
     "file": "HandTrigger_e8ffe5.json",
@@ -8,6 +9,7 @@
   },
   {
     "type": "HandTrigger",
+    "name": "HandTrigger",
     "nickname": null,
     "guid": "9051bf",
     "file": "HandTrigger_9051bf.json",
@@ -15,6 +17,7 @@
   },
   {
     "type": "HandTrigger",
+    "name": "HandTrigger",
     "nickname": null,
     "guid": "01fd7a",
     "file": "HandTrigger_01fd7a.json",
@@ -22,6 +25,7 @@
   },
   {
     "type": "HandTrigger",
+    "name": "HandTrigger",
     "nickname": null,
     "guid": "9214ac",
     "file": "HandTrigger_9214ac.json",
@@ -29,6 +33,7 @@
   },
   {
     "type": "Custom_Assetbundle",
+    "name": "Custom_Assetbundle",
     "nickname": null,
     "guid": "afc863",
     "file": "Custom_Assetbundle_afc863.json",
@@ -36,6 +41,7 @@
   },
   {
     "type": "Custom_Assetbundle",
+    "name": "Custom_Assetbundle",
     "nickname": null,
     "guid": "c8edca",
     "file": "Custom_Assetbundle_c8edca.json",
@@ -43,6 +49,7 @@
   },
   {
     "type": "Custom_Assetbundle",
+    "name": "Custom_Assetbundle",
     "nickname": null,
     "guid": "393bf7",
     "file": "Custom_Assetbundle_393bf7.json",
@@ -50,6 +57,7 @@
   },
   {
     "type": "Custom_Assetbundle",
+    "name": "Custom_Assetbundle",
     "nickname": null,
     "guid": "12c65e",
     "file": "Custom_Assetbundle_12c65e.json",
@@ -57,6 +65,7 @@
   },
   {
     "type": "Chinese_Checkers_Piece",
+    "name": "Chinese_Checkers_Piece",
     "nickname": "Flex Table Control",
     "guid": "bd69bd",
     "file": "Flex_Table_Control.Chinese_Checkers_Piece_bd69bd.json",
@@ -64,6 +73,7 @@
   },
   {
     "type": "Custom_Assetbundle",
+    "name": "Custom_Assetbundle",
     "nickname": null,
     "guid": "f938a2",
     "file": "Custom_Assetbundle_f938a2.json",
@@ -71,6 +81,7 @@
   },
   {
     "type": "Custom_Assetbundle",
+    "name": "Custom_Assetbundle",
     "nickname": null,
     "guid": "9f95fd",
     "file": "Custom_Assetbundle_9f95fd.json",
@@ -78,6 +89,7 @@
   },
   {
     "type": "Custom_Assetbundle",
+    "name": "Custom_Assetbundle",
     "nickname": null,
     "guid": "35b95f",
     "file": "Custom_Assetbundle_35b95f.json",
@@ -85,6 +97,7 @@
   },
   {
     "type": "Custom_Assetbundle",
+    "name": "Custom_Assetbundle",
     "nickname": null,
     "guid": "5af8f2",
     "file": "Custom_Assetbundle_5af8f2.json",
@@ -92,6 +105,7 @@
   },
   {
     "type": "Custom_Model",
+    "name": "Custom_Model",
     "nickname": null,
     "guid": "4ee1f2",
     "file": "Custom_Model_4ee1f2.json",
@@ -99,6 +113,7 @@
   },
   {
     "type": "DeckCustom",
+    "name": "DeckCustom",
     "nickname": "Колода завдань",
     "guid": "5df66e",
     "file": "Колода_завдань.DeckCustom_5df66e.json",
@@ -106,1532 +121,1751 @@
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 1",
     "guid": "1deaad",
-    "file": "Contained/Колода_завдань_5df66e/З_1.Card_1deaad.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_1deaad.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 2",
     "guid": "8c5d43",
-    "file": "Contained/Колода_завдань_5df66e/З_2.Card_8c5d43.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_8c5d43.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 3",
     "guid": "a36879",
-    "file": "Contained/Колода_завдань_5df66e/З_3.Card_a36879.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_a36879.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 4",
     "guid": "e73e01",
-    "file": "Contained/Колода_завдань_5df66e/З_4.Card_e73e01.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_e73e01.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 5",
     "guid": "6b0ccd",
-    "file": "Contained/Колода_завдань_5df66e/З_5.Card_6b0ccd.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_6b0ccd.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 6",
     "guid": "00eabd",
-    "file": "Contained/Колода_завдань_5df66e/З_6.Card_00eabd.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_00eabd.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 7",
     "guid": "f837f7",
-    "file": "Contained/Колода_завдань_5df66e/З_7.Card_f837f7.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_f837f7.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 8",
     "guid": "1bbf74",
-    "file": "Contained/Колода_завдань_5df66e/З_8.Card_1bbf74.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_1bbf74.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 9",
     "guid": "b8289d",
-    "file": "Contained/Колода_завдань_5df66e/З_9.Card_b8289d.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_b8289d.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 10",
     "guid": "99aac0",
-    "file": "Contained/Колода_завдань_5df66e/З_10.Card_99aac0.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_99aac0.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 11",
     "guid": "e6dc19",
-    "file": "Contained/Колода_завдань_5df66e/З_11.Card_e6dc19.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_e6dc19.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 12",
     "guid": "9b03eb",
-    "file": "Contained/Колода_завдань_5df66e/З_12.Card_9b03eb.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_9b03eb.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 13",
     "guid": "ee1da2",
-    "file": "Contained/Колода_завдань_5df66e/З_13.Card_ee1da2.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_ee1da2.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 14",
     "guid": "17da8c",
-    "file": "Contained/Колода_завдань_5df66e/З_14.Card_17da8c.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_17da8c.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 15",
     "guid": "e84c13",
-    "file": "Contained/Колода_завдань_5df66e/З_15.Card_e84c13.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_e84c13.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 16",
     "guid": "97d725",
-    "file": "Contained/Колода_завдань_5df66e/З_16.Card_97d725.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_97d725.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 17",
     "guid": "d9385e",
-    "file": "Contained/Колода_завдань_5df66e/З_17.Card_d9385e.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_d9385e.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 18",
     "guid": "fd4e75",
-    "file": "Contained/Колода_завдань_5df66e/З_18.Card_fd4e75.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_fd4e75.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 19",
     "guid": "5ca951",
-    "file": "Contained/Колода_завдань_5df66e/З_19.Card_5ca951.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_5ca951.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 20",
     "guid": "b759c0",
-    "file": "Contained/Колода_завдань_5df66e/З_20.Card_b759c0.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_b759c0.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 21",
     "guid": "f05df7",
-    "file": "Contained/Колода_завдань_5df66e/З_21.Card_f05df7.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_f05df7.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 22",
     "guid": "2e5b5b",
-    "file": "Contained/Колода_завдань_5df66e/З_22.Card_2e5b5b.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_2e5b5b.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 23",
     "guid": "89cb06",
-    "file": "Contained/Колода_завдань_5df66e/З_23.Card_89cb06.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_89cb06.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 24",
     "guid": "11b3e9",
-    "file": "Contained/Колода_завдань_5df66e/З_24.Card_11b3e9.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_11b3e9.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 25",
     "guid": "3fe700",
-    "file": "Contained/Колода_завдань_5df66e/З_25.Card_3fe700.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_3fe700.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 26",
     "guid": "541617",
-    "file": "Contained/Колода_завдань_5df66e/З_26.Card_541617.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_541617.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 27",
     "guid": "f5672f",
-    "file": "Contained/Колода_завдань_5df66e/З_27.Card_f5672f.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_f5672f.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 28",
     "guid": "2d8445",
-    "file": "Contained/Колода_завдань_5df66e/З_28.Card_2d8445.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_2d8445.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 29",
     "guid": "02248a",
-    "file": "Contained/Колода_завдань_5df66e/З_29.Card_02248a.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_02248a.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 30",
     "guid": "65be3e",
-    "file": "Contained/Колода_завдань_5df66e/З_30.Card_65be3e.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_65be3e.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 31",
     "guid": "5b54a2",
-    "file": "Contained/Колода_завдань_5df66e/З_31.Card_5b54a2.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_5b54a2.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 32",
     "guid": "25c366",
-    "file": "Contained/Колода_завдань_5df66e/З_32.Card_25c366.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_25c366.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 33",
     "guid": "773fcf",
-    "file": "Contained/Колода_завдань_5df66e/З_33.Card_773fcf.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_773fcf.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 34",
     "guid": "73df5b",
-    "file": "Contained/Колода_завдань_5df66e/З_34.Card_73df5b.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_73df5b.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 35",
     "guid": "f3b98e",
-    "file": "Contained/Колода_завдань_5df66e/З_35.Card_f3b98e.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_f3b98e.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 36",
     "guid": "6cdc4c",
-    "file": "Contained/Колода_завдань_5df66e/З_36.Card_6cdc4c.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_6cdc4c.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 37",
     "guid": "c37a5b",
-    "file": "Contained/Колода_завдань_5df66e/З_37.Card_c37a5b.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_c37a5b.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 38",
     "guid": "18ec49",
-    "file": "Contained/Колода_завдань_5df66e/З_38.Card_18ec49.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_18ec49.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 39",
     "guid": "722164",
-    "file": "Contained/Колода_завдань_5df66e/З_39.Card_722164.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_722164.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 40",
     "guid": "da6111",
-    "file": "Contained/Колода_завдань_5df66e/З_40.Card_da6111.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_da6111.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 41",
     "guid": "1240e7",
-    "file": "Contained/Колода_завдань_5df66e/З_41.Card_1240e7.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_1240e7.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 42",
     "guid": "4bebe3",
-    "file": "Contained/Колода_завдань_5df66e/З_42.Card_4bebe3.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_4bebe3.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 43",
     "guid": "673c24",
-    "file": "Contained/Колода_завдань_5df66e/З_43.Card_673c24.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_673c24.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 44",
     "guid": "35d846",
-    "file": "Contained/Колода_завдань_5df66e/З_44.Card_35d846.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_35d846.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 45",
     "guid": "eba451",
-    "file": "Contained/Колода_завдань_5df66e/З_45.Card_eba451.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_eba451.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 46",
     "guid": "b5aa5f",
-    "file": "Contained/Колода_завдань_5df66e/З_46.Card_b5aa5f.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_b5aa5f.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 47",
     "guid": "6f3e21",
-    "file": "Contained/Колода_завдань_5df66e/З_47.Card_6f3e21.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_6f3e21.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 48",
     "guid": "36604f",
-    "file": "Contained/Колода_завдань_5df66e/З_48.Card_36604f.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_36604f.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 49",
     "guid": "0df3fc",
-    "file": "Contained/Колода_завдань_5df66e/З_49.Card_0df3fc.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_0df3fc.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 50",
     "guid": "66466e",
-    "file": "Contained/Колода_завдань_5df66e/З_50.Card_66466e.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_66466e.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 51",
     "guid": "952da9",
-    "file": "Contained/Колода_завдань_5df66e/З_51.Card_952da9.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_952da9.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 52",
     "guid": "94dc5c",
-    "file": "Contained/Колода_завдань_5df66e/З_52.Card_94dc5c.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_94dc5c.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 53",
     "guid": "11a645",
-    "file": "Contained/Колода_завдань_5df66e/З_53.Card_11a645.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_11a645.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 54",
     "guid": "90bebf",
-    "file": "Contained/Колода_завдань_5df66e/З_54.Card_90bebf.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_90bebf.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 55",
     "guid": "d31c63",
-    "file": "Contained/Колода_завдань_5df66e/З_55.Card_d31c63.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_d31c63.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 56",
     "guid": "034118",
-    "file": "Contained/Колода_завдань_5df66e/З_56.Card_034118.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_034118.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 57",
     "guid": "42f441",
-    "file": "Contained/Колода_завдань_5df66e/З_57.Card_42f441.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_42f441.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 58",
     "guid": "bf61eb",
-    "file": "Contained/Колода_завдань_5df66e/З_58.Card_bf61eb.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_bf61eb.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 59",
     "guid": "b757fe",
-    "file": "Contained/Колода_завдань_5df66e/З_59.Card_b757fe.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_b757fe.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 60",
     "guid": "9e4bc7",
-    "file": "Contained/Колода_завдань_5df66e/З_60.Card_9e4bc7.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_9e4bc7.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 61",
     "guid": "c2b0b8",
-    "file": "Contained/Колода_завдань_5df66e/З_61.Card_c2b0b8.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_c2b0b8.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 62",
     "guid": "a9f420",
-    "file": "Contained/Колода_завдань_5df66e/З_62.Card_a9f420.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_a9f420.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 63",
     "guid": "13e310",
-    "file": "Contained/Колода_завдань_5df66e/З_63.Card_13e310.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_13e310.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 64",
     "guid": "ab3dcd",
-    "file": "Contained/Колода_завдань_5df66e/З_64.Card_ab3dcd.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_ab3dcd.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 65",
     "guid": "c05dbc",
-    "file": "Contained/Колода_завдань_5df66e/З_65.Card_c05dbc.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_c05dbc.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 66",
     "guid": "94c3a8",
-    "file": "Contained/Колода_завдань_5df66e/З_66.Card_94c3a8.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_94c3a8.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 67",
     "guid": "34ce12",
-    "file": "Contained/Колода_завдань_5df66e/З_67.Card_34ce12.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_34ce12.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 68",
     "guid": "f34678",
-    "file": "Contained/Колода_завдань_5df66e/З_68.Card_f34678.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_f34678.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 69",
     "guid": "e8ff82",
-    "file": "Contained/Колода_завдань_5df66e/З_69.Card_e8ff82.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_e8ff82.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 70",
     "guid": "4ae9e5",
-    "file": "Contained/Колода_завдань_5df66e/З_70.Card_4ae9e5.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_4ae9e5.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 71",
     "guid": "dd556e",
-    "file": "Contained/Колода_завдань_5df66e/З_71.Card_dd556e.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_dd556e.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 72",
     "guid": "1343b2",
-    "file": "Contained/Колода_завдань_5df66e/З_72.Card_1343b2.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_1343b2.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 73",
     "guid": "4042c2",
-    "file": "Contained/Колода_завдань_5df66e/З_73.Card_4042c2.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_4042c2.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 74",
     "guid": "1b7710",
-    "file": "Contained/Колода_завдань_5df66e/З_74.Card_1b7710.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_1b7710.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 75",
     "guid": "b8ba34",
-    "file": "Contained/Колода_завдань_5df66e/З_75.Card_b8ba34.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_b8ba34.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 76",
     "guid": "edaf08",
-    "file": "Contained/Колода_завдань_5df66e/З_76.Card_edaf08.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_edaf08.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 77",
     "guid": "2acc0d",
-    "file": "Contained/Колода_завдань_5df66e/З_77.Card_2acc0d.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_2acc0d.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 78",
     "guid": "d2eb25",
-    "file": "Contained/Колода_завдань_5df66e/З_78.Card_d2eb25.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_d2eb25.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 79",
     "guid": "7decaf",
-    "file": "Contained/Колода_завдань_5df66e/З_79.Card_7decaf.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_7decaf.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 80",
     "guid": "8d909f",
-    "file": "Contained/Колода_завдань_5df66e/З_80.Card_8d909f.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_8d909f.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 81",
     "guid": "3f6a2c",
-    "file": "Contained/Колода_завдань_5df66e/З_81.Card_3f6a2c.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_3f6a2c.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 82",
     "guid": "2e59f8",
-    "file": "Contained/Колода_завдань_5df66e/З_82.Card_2e59f8.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_2e59f8.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 83",
     "guid": "df9374",
-    "file": "Contained/Колода_завдань_5df66e/З_83.Card_df9374.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_df9374.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 84",
     "guid": "b4b7e6",
-    "file": "Contained/Колода_завдань_5df66e/З_84.Card_b4b7e6.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_b4b7e6.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 85",
     "guid": "2a8496",
-    "file": "Contained/Колода_завдань_5df66e/З_85.Card_2a8496.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_2a8496.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 86",
     "guid": "3c3624",
-    "file": "Contained/Колода_завдань_5df66e/З_86.Card_3c3624.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_3c3624.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 87",
     "guid": "36ba8d",
-    "file": "Contained/Колода_завдань_5df66e/З_87.Card_36ba8d.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_36ba8d.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 88",
     "guid": "c8291d",
-    "file": "Contained/Колода_завдань_5df66e/З_88.Card_c8291d.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_c8291d.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 89",
     "guid": "23beac",
-    "file": "Contained/Колода_завдань_5df66e/З_89.Card_23beac.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_23beac.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 90",
     "guid": "bfcce0",
-    "file": "Contained/Колода_завдань_5df66e/З_90.Card_bfcce0.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_bfcce0.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 91",
     "guid": "ac4b5f",
-    "file": "Contained/Колода_завдань_5df66e/З_91.Card_ac4b5f.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_ac4b5f.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 92",
     "guid": "b7ec98",
-    "file": "Contained/Колода_завдань_5df66e/З_92.Card_b7ec98.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_b7ec98.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 93",
     "guid": "354c03",
-    "file": "Contained/Колода_завдань_5df66e/З_93.Card_354c03.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_354c03.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 94",
     "guid": "8c626d",
-    "file": "Contained/Колода_завдань_5df66e/З_94.Card_8c626d.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_8c626d.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 95",
     "guid": "51fdb6",
-    "file": "Contained/Колода_завдань_5df66e/З_95.Card_51fdb6.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_51fdb6.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 96",
     "guid": "b692cb",
-    "file": "Contained/Колода_завдань_5df66e/З_96.Card_b692cb.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_b692cb.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 97",
     "guid": "b7c8a3",
-    "file": "Contained/Колода_завдань_5df66e/З_97.Card_b7c8a3.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_b7c8a3.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 98",
     "guid": "25eec3",
-    "file": "Contained/Колода_завдань_5df66e/З_98.Card_25eec3.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_25eec3.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 99",
     "guid": "8ff776",
-    "file": "Contained/Колода_завдань_5df66e/З_99.Card_8ff776.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_8ff776.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 100",
     "guid": "9e755a",
-    "file": "Contained/Колода_завдань_5df66e/З_100.Card_9e755a.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_9e755a.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 101",
     "guid": "b64652",
-    "file": "Contained/Колода_завдань_5df66e/З_101.Card_b64652.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_b64652.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 102",
     "guid": "9d8890",
-    "file": "Contained/Колода_завдань_5df66e/З_102.Card_9d8890.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_9d8890.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 103",
     "guid": "3e5bba",
-    "file": "Contained/Колода_завдань_5df66e/З_103.Card_3e5bba.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_3e5bba.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 104",
     "guid": "5af2f8",
-    "file": "Contained/Колода_завдань_5df66e/З_104.Card_5af2f8.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_5af2f8.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 105",
     "guid": "24f33f",
-    "file": "Contained/Колода_завдань_5df66e/З_105.Card_24f33f.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_24f33f.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 106",
     "guid": "00a820",
-    "file": "Contained/Колода_завдань_5df66e/З_106.Card_00a820.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_00a820.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 107",
     "guid": "c414bf",
-    "file": "Contained/Колода_завдань_5df66e/З_107.Card_c414bf.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_c414bf.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 108",
     "guid": "df3d1d",
-    "file": "Contained/Колода_завдань_5df66e/З_108.Card_df3d1d.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_df3d1d.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 109",
     "guid": "700883",
-    "file": "Contained/Колода_завдань_5df66e/З_109.Card_700883.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_700883.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 110",
     "guid": "0627df",
-    "file": "Contained/Колода_завдань_5df66e/З_110.Card_0627df.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_0627df.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 111",
     "guid": "c799f4",
-    "file": "Contained/Колода_завдань_5df66e/З_111.Card_c799f4.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_c799f4.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 112",
     "guid": "5fa8f6",
-    "file": "Contained/Колода_завдань_5df66e/З_112.Card_5fa8f6.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_5fa8f6.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 113",
     "guid": "aba603",
-    "file": "Contained/Колода_завдань_5df66e/З_113.Card_aba603.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_aba603.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 114",
     "guid": "60e1ca",
-    "file": "Contained/Колода_завдань_5df66e/З_114.Card_60e1ca.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_60e1ca.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 115",
     "guid": "33fdc5",
-    "file": "Contained/Колода_завдань_5df66e/З_115.Card_33fdc5.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_33fdc5.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 116",
     "guid": "fa2e6d",
-    "file": "Contained/Колода_завдань_5df66e/З_116.Card_fa2e6d.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_fa2e6d.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 117",
     "guid": "41e15d",
-    "file": "Contained/Колода_завдань_5df66e/З_117.Card_41e15d.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_41e15d.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 118",
     "guid": "320cdb",
-    "file": "Contained/Колода_завдань_5df66e/З_118.Card_320cdb.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_320cdb.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 119",
     "guid": "40795f",
-    "file": "Contained/Колода_завдань_5df66e/З_119.Card_40795f.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_40795f.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 120",
     "guid": "d40fec",
-    "file": "Contained/Колода_завдань_5df66e/З_120.Card_d40fec.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_d40fec.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 121",
     "guid": "10983f",
-    "file": "Contained/Колода_завдань_5df66e/З_121.Card_10983f.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_10983f.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 122",
     "guid": "472554",
-    "file": "Contained/Колода_завдань_5df66e/З_122.Card_472554.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_472554.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 123",
     "guid": "f6b1a4",
-    "file": "Contained/Колода_завдань_5df66e/З_123.Card_f6b1a4.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_f6b1a4.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 124",
     "guid": "c5e1e4",
-    "file": "Contained/Колода_завдань_5df66e/З_124.Card_c5e1e4.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_c5e1e4.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 125",
     "guid": "d64f1b",
-    "file": "Contained/Колода_завдань_5df66e/З_125.Card_d64f1b.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_d64f1b.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 126",
     "guid": "0642cb",
-    "file": "Contained/Колода_завдань_5df66e/З_126.Card_0642cb.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_0642cb.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 127",
     "guid": "8b8dde",
-    "file": "Contained/Колода_завдань_5df66e/З_127.Card_8b8dde.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_8b8dde.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 128",
     "guid": "8d51d5",
-    "file": "Contained/Колода_завдань_5df66e/З_128.Card_8d51d5.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_8d51d5.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 129",
     "guid": "82fb27",
-    "file": "Contained/Колода_завдань_5df66e/З_129.Card_82fb27.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_82fb27.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 130",
     "guid": "d5f103",
-    "file": "Contained/Колода_завдань_5df66e/З_130.Card_d5f103.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_d5f103.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 131",
     "guid": "e4c213",
-    "file": "Contained/Колода_завдань_5df66e/З_131.Card_e4c213.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_e4c213.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 132",
     "guid": "974f5f",
-    "file": "Contained/Колода_завдань_5df66e/З_132.Card_974f5f.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_974f5f.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 133",
     "guid": "dfe819",
-    "file": "Contained/Колода_завдань_5df66e/З_133.Card_dfe819.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_dfe819.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 134",
     "guid": "232048",
-    "file": "Contained/Колода_завдань_5df66e/З_134.Card_232048.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_232048.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 135",
     "guid": "ce9ce5",
-    "file": "Contained/Колода_завдань_5df66e/З_135.Card_ce9ce5.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_ce9ce5.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 136",
     "guid": "a20942",
-    "file": "Contained/Колода_завдань_5df66e/З_136.Card_a20942.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_a20942.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 137",
     "guid": "dcf9bd",
-    "file": "Contained/Колода_завдань_5df66e/З_137.Card_dcf9bd.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_dcf9bd.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 138",
     "guid": "0521ec",
-    "file": "Contained/Колода_завдань_5df66e/З_138.Card_0521ec.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_0521ec.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 139",
     "guid": "b36205",
-    "file": "Contained/Колода_завдань_5df66e/З_139.Card_b36205.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_b36205.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 140",
     "guid": "b0ff96",
-    "file": "Contained/Колода_завдань_5df66e/З_140.Card_b0ff96.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_b0ff96.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 141",
     "guid": "1dca0b",
-    "file": "Contained/Колода_завдань_5df66e/З_141.Card_1dca0b.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_1dca0b.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 142",
     "guid": "96619b",
-    "file": "Contained/Колода_завдань_5df66e/З_142.Card_96619b.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_96619b.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 143",
     "guid": "da6316",
-    "file": "Contained/Колода_завдань_5df66e/З_143.Card_da6316.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_da6316.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 144",
     "guid": "f065d0",
-    "file": "Contained/Колода_завдань_5df66e/З_144.Card_f065d0.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_f065d0.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 145",
     "guid": "0e1168",
-    "file": "Contained/Колода_завдань_5df66e/З_145.Card_0e1168.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_0e1168.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 146",
     "guid": "e72042",
-    "file": "Contained/Колода_завдань_5df66e/З_146.Card_e72042.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_e72042.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 147",
     "guid": "16d77b",
-    "file": "Contained/Колода_завдань_5df66e/З_147.Card_16d77b.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_16d77b.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 148",
     "guid": "880e01",
-    "file": "Contained/Колода_завдань_5df66e/З_148.Card_880e01.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_880e01.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 149",
     "guid": "ccb7e3",
-    "file": "Contained/Колода_завдань_5df66e/З_149.Card_ccb7e3.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_ccb7e3.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 150",
     "guid": "bcf38d",
-    "file": "Contained/Колода_завдань_5df66e/З_150.Card_bcf38d.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_bcf38d.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 151",
     "guid": "f16383",
-    "file": "Contained/Колода_завдань_5df66e/З_151.Card_f16383.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_f16383.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 152",
     "guid": "2c1db6",
-    "file": "Contained/Колода_завдань_5df66e/З_152.Card_2c1db6.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_2c1db6.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 153",
     "guid": "ea7078",
-    "file": "Contained/Колода_завдань_5df66e/З_153.Card_ea7078.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_ea7078.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 154",
     "guid": "3f7ed2",
-    "file": "Contained/Колода_завдань_5df66e/З_154.Card_3f7ed2.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_3f7ed2.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 155",
     "guid": "478c2f",
-    "file": "Contained/Колода_завдань_5df66e/З_155.Card_478c2f.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_478c2f.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 156",
     "guid": "778440",
-    "file": "Contained/Колода_завдань_5df66e/З_156.Card_778440.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_778440.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 157",
     "guid": "f09b5a",
-    "file": "Contained/Колода_завдань_5df66e/З_157.Card_f09b5a.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_f09b5a.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 158",
     "guid": "d000c8",
-    "file": "Contained/Колода_завдань_5df66e/З_158.Card_d000c8.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_d000c8.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 159",
     "guid": "3f0fc1",
-    "file": "Contained/Колода_завдань_5df66e/З_159.Card_3f0fc1.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_3f0fc1.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 160",
     "guid": "070862",
-    "file": "Contained/Колода_завдань_5df66e/З_160.Card_070862.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_070862.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 161",
     "guid": "1587ce",
-    "file": "Contained/Колода_завдань_5df66e/З_161.Card_1587ce.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_1587ce.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 162",
     "guid": "8b9eb6",
-    "file": "Contained/Колода_завдань_5df66e/З_162.Card_8b9eb6.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_8b9eb6.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 163",
     "guid": "d9c167",
-    "file": "Contained/Колода_завдань_5df66e/З_163.Card_d9c167.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_d9c167.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 164",
     "guid": "46d9ef",
-    "file": "Contained/Колода_завдань_5df66e/З_164.Card_46d9ef.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_46d9ef.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 165",
     "guid": "d09832",
-    "file": "Contained/Колода_завдань_5df66e/З_165.Card_d09832.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_d09832.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 166",
     "guid": "b415c2",
-    "file": "Contained/Колода_завдань_5df66e/З_166.Card_b415c2.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_b415c2.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 167",
     "guid": "033248",
-    "file": "Contained/Колода_завдань_5df66e/З_167.Card_033248.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_033248.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 168",
     "guid": "081495",
-    "file": "Contained/Колода_завдань_5df66e/З_168.Card_081495.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_081495.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 169",
     "guid": "339e2f",
-    "file": "Contained/Колода_завдань_5df66e/З_169.Card_339e2f.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_339e2f.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 170",
     "guid": "4ce471",
-    "file": "Contained/Колода_завдань_5df66e/З_170.Card_4ce471.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_4ce471.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 171",
     "guid": "2fe530",
-    "file": "Contained/Колода_завдань_5df66e/З_171.Card_2fe530.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_2fe530.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 172",
     "guid": "792b1c",
-    "file": "Contained/Колода_завдань_5df66e/З_172.Card_792b1c.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_792b1c.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 173",
     "guid": "8e9579",
-    "file": "Contained/Колода_завдань_5df66e/З_173.Card_8e9579.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_8e9579.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 174",
     "guid": "db8262",
-    "file": "Contained/Колода_завдань_5df66e/З_174.Card_db8262.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_db8262.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 175",
     "guid": "9aaf6c",
-    "file": "Contained/Колода_завдань_5df66e/З_175.Card_9aaf6c.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_9aaf6c.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 176",
     "guid": "12e816",
-    "file": "Contained/Колода_завдань_5df66e/З_176.Card_12e816.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_12e816.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 177",
     "guid": "d409f6",
-    "file": "Contained/Колода_завдань_5df66e/З_177.Card_d409f6.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_d409f6.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 178",
     "guid": "f91879",
-    "file": "Contained/Колода_завдань_5df66e/З_178.Card_f91879.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_f91879.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 179",
     "guid": "52fa40",
-    "file": "Contained/Колода_завдань_5df66e/З_179.Card_52fa40.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_52fa40.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 180",
     "guid": "76e03b",
-    "file": "Contained/Колода_завдань_5df66e/З_180.Card_76e03b.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_76e03b.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 181",
     "guid": "f6a091",
-    "file": "Contained/Колода_завдань_5df66e/З_181.Card_f6a091.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_f6a091.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 182",
     "guid": "4464d0",
-    "file": "Contained/Колода_завдань_5df66e/З_182.Card_4464d0.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_4464d0.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 183",
     "guid": "f2da77",
-    "file": "Contained/Колода_завдань_5df66e/З_183.Card_f2da77.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_f2da77.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 184",
     "guid": "ba8b26",
-    "file": "Contained/Колода_завдань_5df66e/З_184.Card_ba8b26.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_ba8b26.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 185",
     "guid": "c51e18",
-    "file": "Contained/Колода_завдань_5df66e/З_185.Card_c51e18.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_c51e18.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 186",
     "guid": "815115",
-    "file": "Contained/Колода_завдань_5df66e/З_186.Card_815115.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_815115.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 187",
     "guid": "320b1e",
-    "file": "Contained/Колода_завдань_5df66e/З_187.Card_320b1e.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_320b1e.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 188",
     "guid": "ffcea2",
-    "file": "Contained/Колода_завдань_5df66e/З_188.Card_ffcea2.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_ffcea2.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 189",
     "guid": "c5d737",
-    "file": "Contained/Колода_завдань_5df66e/З_189.Card_c5d737.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_c5d737.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 190",
     "guid": "36644f",
-    "file": "Contained/Колода_завдань_5df66e/З_190.Card_36644f.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_36644f.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 191",
     "guid": "2d4e6b",
-    "file": "Contained/Колода_завдань_5df66e/З_191.Card_2d4e6b.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_2d4e6b.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 192",
     "guid": "83db37",
-    "file": "Contained/Колода_завдань_5df66e/З_192.Card_83db37.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_83db37.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 193",
     "guid": "5f950c",
-    "file": "Contained/Колода_завдань_5df66e/З_193.Card_5f950c.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_5f950c.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 194",
     "guid": "663d84",
-    "file": "Contained/Колода_завдань_5df66e/З_194.Card_663d84.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_663d84.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 195",
     "guid": "4b2071",
-    "file": "Contained/Колода_завдань_5df66e/З_195.Card_4b2071.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_4b2071.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 196",
     "guid": "5b4e47",
-    "file": "Contained/Колода_завдань_5df66e/З_196.Card_5b4e47.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_5b4e47.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 197",
     "guid": "94274f",
-    "file": "Contained/Колода_завдань_5df66e/З_197.Card_94274f.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_94274f.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 198",
     "guid": "f309a3",
-    "file": "Contained/Колода_завдань_5df66e/З_198.Card_f309a3.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_f309a3.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 199",
     "guid": "deaab4",
-    "file": "Contained/Колода_завдань_5df66e/З_199.Card_deaab4.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_deaab4.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 200",
     "guid": "6529d6",
-    "file": "Contained/Колода_завдань_5df66e/З_200.Card_6529d6.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_6529d6.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 201",
     "guid": "7c0219",
-    "file": "Contained/Колода_завдань_5df66e/З_201.Card_7c0219.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_7c0219.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 202",
     "guid": "8b0394",
-    "file": "Contained/Колода_завдань_5df66e/З_202.Card_8b0394.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_8b0394.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 203",
     "guid": "23039c",
-    "file": "Contained/Колода_завдань_5df66e/З_203.Card_23039c.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_23039c.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 204",
     "guid": "da6d6b",
-    "file": "Contained/Колода_завдань_5df66e/З_204.Card_da6d6b.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_da6d6b.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 205",
     "guid": "037d8d",
-    "file": "Contained/Колода_завдань_5df66e/З_205.Card_037d8d.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_037d8d.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 206",
     "guid": "561671",
-    "file": "Contained/Колода_завдань_5df66e/З_206.Card_561671.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_561671.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 207",
     "guid": "a992dc",
-    "file": "Contained/Колода_завдань_5df66e/З_207.Card_a992dc.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_a992dc.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 208",
     "guid": "e6f8ec",
-    "file": "Contained/Колода_завдань_5df66e/З_208.Card_e6f8ec.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_e6f8ec.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 209",
     "guid": "4f1d89",
-    "file": "Contained/Колода_завдань_5df66e/З_209.Card_4f1d89.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_4f1d89.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 210",
     "guid": "dbc518",
-    "file": "Contained/Колода_завдань_5df66e/З_210.Card_dbc518.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_dbc518.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 211",
     "guid": "0e3b62",
-    "file": "Contained/Колода_завдань_5df66e/З_211.Card_0e3b62.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_0e3b62.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 212",
     "guid": "e8cd93",
-    "file": "Contained/Колода_завдань_5df66e/З_212.Card_e8cd93.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_e8cd93.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 213",
     "guid": "54b8a9",
-    "file": "Contained/Колода_завдань_5df66e/З_213.Card_54b8a9.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_54b8a9.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 214",
     "guid": "05920f",
-    "file": "Contained/Колода_завдань_5df66e/З_214.Card_05920f.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_05920f.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 215",
     "guid": "6990ce",
-    "file": "Contained/Колода_завдань_5df66e/З_215.Card_6990ce.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_6990ce.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 216",
     "guid": "537097",
-    "file": "Contained/Колода_завдань_5df66e/З_216.Card_537097.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_537097.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 217",
     "guid": "890807",
-    "file": "Contained/Колода_завдань_5df66e/З_217.Card_890807.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_890807.json",
+    "parent": "5df66e"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": "З 218",
     "guid": "ebdb20",
-    "file": "Contained/Колода_завдань_5df66e/З_218.Card_ebdb20.json",
-    "parent": "Колода_завдань_5df66e"
+    "file": "Contained/Колода_завдань_5df66e/Card_ebdb20.json",
+    "parent": "5df66e"
   },
   {
     "type": "Custom_Model_Bag",
+    "name": "Custom_Model_Bag",
     "nickname": "Виконанні завдання",
     "guid": "44928f",
     "file": "Виконанні_завдання.Custom_Model_Bag_44928f.json",
@@ -1639,6 +1873,7 @@
   },
   {
     "type": "BlockSquare",
+    "name": "BlockSquare",
     "nickname": null,
     "guid": "69e035",
     "file": "BlockSquare_69e035.json",
@@ -1646,6 +1881,7 @@
   },
   {
     "type": "3DText",
+    "name": "3DText",
     "nickname": null,
     "guid": "8437ad",
     "file": "3DText_8437ad.json",
@@ -1653,6 +1889,7 @@
   },
   {
     "type": "DeckCustom",
+    "name": "DeckCustom",
     "nickname": "Колода монстрів",
     "guid": "d14372",
     "file": "Колода_монстрів.DeckCustom_d14372.json",
@@ -1660,660 +1897,754 @@
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "d51812",
     "file": "Contained/Колода_монстрів_d14372/Card_d51812.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "7df5d3",
     "file": "Contained/Колода_монстрів_d14372/Card_7df5d3.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "81762c",
     "file": "Contained/Колода_монстрів_d14372/Card_81762c.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "997266",
     "file": "Contained/Колода_монстрів_d14372/Card_997266.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "3f80cf",
     "file": "Contained/Колода_монстрів_d14372/Card_3f80cf.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "26a3d2",
     "file": "Contained/Колода_монстрів_d14372/Card_26a3d2.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "8e27a1",
     "file": "Contained/Колода_монстрів_d14372/Card_8e27a1.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "26b5e4",
     "file": "Contained/Колода_монстрів_d14372/Card_26b5e4.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "8cc79b",
     "file": "Contained/Колода_монстрів_d14372/Card_8cc79b.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "35e1a4",
     "file": "Contained/Колода_монстрів_d14372/Card_35e1a4.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "aba5a1",
     "file": "Contained/Колода_монстрів_d14372/Card_aba5a1.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "2d8ae3",
     "file": "Contained/Колода_монстрів_d14372/Card_2d8ae3.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "cde599",
     "file": "Contained/Колода_монстрів_d14372/Card_cde599.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "97070c",
     "file": "Contained/Колода_монстрів_d14372/Card_97070c.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "92b4b6",
     "file": "Contained/Колода_монстрів_d14372/Card_92b4b6.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "d05828",
     "file": "Contained/Колода_монстрів_d14372/Card_d05828.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "8a5460",
     "file": "Contained/Колода_монстрів_d14372/Card_8a5460.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "37fcea",
     "file": "Contained/Колода_монстрів_d14372/Card_37fcea.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "3827ea",
     "file": "Contained/Колода_монстрів_d14372/Card_3827ea.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "e46294",
     "file": "Contained/Колода_монстрів_d14372/Card_e46294.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "864fac",
     "file": "Contained/Колода_монстрів_d14372/Card_864fac.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "9521e5",
     "file": "Contained/Колода_монстрів_d14372/Card_9521e5.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "ff769e",
     "file": "Contained/Колода_монстрів_d14372/Card_ff769e.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "b9bf15",
     "file": "Contained/Колода_монстрів_d14372/Card_b9bf15.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "f54830",
     "file": "Contained/Колода_монстрів_d14372/Card_f54830.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "ab68ca",
     "file": "Contained/Колода_монстрів_d14372/Card_ab68ca.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "cddfc8",
     "file": "Contained/Колода_монстрів_d14372/Card_cddfc8.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "f58da5",
     "file": "Contained/Колода_монстрів_d14372/Card_f58da5.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "c04974",
     "file": "Contained/Колода_монстрів_d14372/Card_c04974.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "fc55cb",
     "file": "Contained/Колода_монстрів_d14372/Card_fc55cb.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "4222e9",
     "file": "Contained/Колода_монстрів_d14372/Card_4222e9.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "2c4743",
     "file": "Contained/Колода_монстрів_d14372/Card_2c4743.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "276135",
     "file": "Contained/Колода_монстрів_d14372/Card_276135.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "8bb98a",
     "file": "Contained/Колода_монстрів_d14372/Card_8bb98a.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "38fb2e",
     "file": "Contained/Колода_монстрів_d14372/Card_38fb2e.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "a3337b",
     "file": "Contained/Колода_монстрів_d14372/Card_a3337b.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "31fb6d",
     "file": "Contained/Колода_монстрів_d14372/Card_31fb6d.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "86b2d4",
     "file": "Contained/Колода_монстрів_d14372/Card_86b2d4.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "7fe23e",
     "file": "Contained/Колода_монстрів_d14372/Card_7fe23e.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "f5470b",
     "file": "Contained/Колода_монстрів_d14372/Card_f5470b.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "5523b7",
     "file": "Contained/Колода_монстрів_d14372/Card_5523b7.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "cfa72b",
     "file": "Contained/Колода_монстрів_d14372/Card_cfa72b.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "6900f1",
     "file": "Contained/Колода_монстрів_d14372/Card_6900f1.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "6a4cfb",
     "file": "Contained/Колода_монстрів_d14372/Card_6a4cfb.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "24623f",
     "file": "Contained/Колода_монстрів_d14372/Card_24623f.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "520318",
     "file": "Contained/Колода_монстрів_d14372/Card_520318.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "46f09c",
     "file": "Contained/Колода_монстрів_d14372/Card_46f09c.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "eb070e",
     "file": "Contained/Колода_монстрів_d14372/Card_eb070e.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "dc5dfb",
     "file": "Contained/Колода_монстрів_d14372/Card_dc5dfb.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "f01fd7",
     "file": "Contained/Колода_монстрів_d14372/Card_f01fd7.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "74ce19",
     "file": "Contained/Колода_монстрів_d14372/Card_74ce19.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "ab4d44",
     "file": "Contained/Колода_монстрів_d14372/Card_ab4d44.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "021fb5",
     "file": "Contained/Колода_монстрів_d14372/Card_021fb5.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "4aa0aa",
     "file": "Contained/Колода_монстрів_d14372/Card_4aa0aa.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "4a8371",
     "file": "Contained/Колода_монстрів_d14372/Card_4a8371.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "3c36d2",
     "file": "Contained/Колода_монстрів_d14372/Card_3c36d2.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "a6b21a",
     "file": "Contained/Колода_монстрів_d14372/Card_a6b21a.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "586bc0",
     "file": "Contained/Колода_монстрів_d14372/Card_586bc0.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "84a48a",
     "file": "Contained/Колода_монстрів_d14372/Card_84a48a.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "25f982",
     "file": "Contained/Колода_монстрів_d14372/Card_25f982.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "1c73f0",
     "file": "Contained/Колода_монстрів_d14372/Card_1c73f0.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "6a0b36",
     "file": "Contained/Колода_монстрів_d14372/Card_6a0b36.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "f800df",
     "file": "Contained/Колода_монстрів_d14372/Card_f800df.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "9f641d",
     "file": "Contained/Колода_монстрів_d14372/Card_9f641d.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "8586f9",
     "file": "Contained/Колода_монстрів_d14372/Card_8586f9.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "f3ee64",
     "file": "Contained/Колода_монстрів_d14372/Card_f3ee64.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "e6236a",
     "file": "Contained/Колода_монстрів_d14372/Card_e6236a.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "cb21c0",
     "file": "Contained/Колода_монстрів_d14372/Card_cb21c0.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "7c6012",
     "file": "Contained/Колода_монстрів_d14372/Card_7c6012.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "b4a0d3",
     "file": "Contained/Колода_монстрів_d14372/Card_b4a0d3.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "e4e50b",
     "file": "Contained/Колода_монстрів_d14372/Card_e4e50b.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "1235a2",
     "file": "Contained/Колода_монстрів_d14372/Card_1235a2.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "d60e45",
     "file": "Contained/Колода_монстрів_d14372/Card_d60e45.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "3bcf15",
     "file": "Contained/Колода_монстрів_d14372/Card_3bcf15.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "74ad18",
     "file": "Contained/Колода_монстрів_d14372/Card_74ad18.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "fbf717",
     "file": "Contained/Колода_монстрів_d14372/Card_fbf717.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "2c0bdb",
     "file": "Contained/Колода_монстрів_d14372/Card_2c0bdb.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "90228d",
     "file": "Contained/Колода_монстрів_d14372/Card_90228d.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "4ef002",
     "file": "Contained/Колода_монстрів_d14372/Card_4ef002.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "468ec3",
     "file": "Contained/Колода_монстрів_d14372/Card_468ec3.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "beb748",
     "file": "Contained/Колода_монстрів_d14372/Card_beb748.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "ce1eb1",
     "file": "Contained/Колода_монстрів_d14372/Card_ce1eb1.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "fbb5a6",
     "file": "Contained/Колода_монстрів_d14372/Card_fbb5a6.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "d17093",
     "file": "Contained/Колода_монстрів_d14372/Card_d17093.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "eba725",
     "file": "Contained/Колода_монстрів_d14372/Card_eba725.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "d06f1d",
     "file": "Contained/Колода_монстрів_d14372/Card_d06f1d.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "c6a79b",
     "file": "Contained/Колода_монстрів_d14372/Card_c6a79b.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "0310d3",
     "file": "Contained/Колода_монстрів_d14372/Card_0310d3.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "1a6a9c",
     "file": "Contained/Колода_монстрів_d14372/Card_1a6a9c.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "ce78b1",
     "file": "Contained/Колода_монстрів_d14372/Card_ce78b1.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "ddf14f",
     "file": "Contained/Колода_монстрів_d14372/Card_ddf14f.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "b401c2",
     "file": "Contained/Колода_монстрів_d14372/Card_b401c2.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "ce0b5d",
     "file": "Contained/Колода_монстрів_d14372/Card_ce0b5d.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   },
   {
     "type": "Card",
+    "name": "Card",
     "nickname": null,
     "guid": "d07310",
     "file": "Contained/Колода_монстрів_d14372/Card_d07310.json",
-    "parent": "Колода_монстрів_d14372"
+    "parent": "d14372"
   }
 ]
