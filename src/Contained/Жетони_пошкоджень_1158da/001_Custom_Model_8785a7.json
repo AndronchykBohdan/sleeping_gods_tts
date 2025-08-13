@@ -1,0 +1,55 @@
+{
+  "GUID": "8785a7",
+  "Name": "Custom_Model",
+  "Transform": {
+    "posX": -25.3865,
+    "posY": 1.4815,
+    "posZ": -6.5505,
+    "rotX": 0,
+    "rotY": 180.0006,
+    "rotZ": 0,
+    "scaleX": 0.5,
+    "scaleY": 0.6,
+    "scaleZ": 0.5
+  },
+  "Nickname": "",
+  "Description": "",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.7351916,
+    "g": 0.07056718,
+    "b": 0.06531304
+  },
+  "Tags": [
+    "Damage"
+  ],
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": false,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": false,
+  "Hands": false,
+  "CustomMesh": {
+    "MeshURL": "https://drive.google.com/uc?export=download&id=1P-zW132VuP12I8_kWv3CHmASWpYqa7VM",
+    "DiffuseURL": "",
+    "NormalURL": "",
+    "ColliderURL": "",
+    "Convex": true,
+    "MaterialIndex": 1,
+    "TypeIndex": 0,
+    "CastShadows": true
+  }
+}

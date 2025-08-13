@@ -1,0 +1,55 @@
+{
+  "GUID": "890807",
+  "Name": "Card",
+  "Transform": {
+    "posX": 19.929039,
+    "posY": 1.58245468,
+    "posZ": 15.8943653,
+    "rotX": 0.0172291733,
+    "rotY": 180.015076,
+    "rotZ": 0.0793397352,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Nickname": "З 217",
+  "Description": "",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": false,
+  "Hands": true,
+  "CardID": 9406,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "1": {
+      "FaceURL": "https://drive.google.com/uc?export=download&id=1503yW37mv4BxvB8bM5mTfLVk22rrWTZF",
+      "BackURL": "https://drive.google.com/uc?export=download&id=1hOe8hnh11HPTeg3TM-ikHhoQ311VW7Dd",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": false,
+      "UniqueBack": true,
+      "Type": 0
+    }
+  }
+}

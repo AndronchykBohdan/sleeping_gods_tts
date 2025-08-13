@@ -1,0 +1,44 @@
+{
+  "GUID": "74ad18",
+  "Name": "Card",
+  "Transform": {
+    "posX": -20.1915684,
+    "posY": 2.85026145,
+    "posZ": 3.51837015,
+    "rotX": -0.000005008956,
+    "rotY": 180,
+    "rotZ": 180,
+    "scaleX": 2.23502254,
+    "scaleY": 1,
+    "scaleZ": 2.23502254
+  },
+  "Nickname": "М 74",
+  "Description": "",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "Hands": true,
+  "CardID": 8604,
+  "SidewaysCard": false,
+  "ContainedObjects": []
+}

@@ -1,0 +1,137 @@
+{
+  "GUID": "1158da",
+  "Name": "Custom_Model_Infinite_Bag",
+  "Transform": {
+    "posX": -25.3865,
+    "posY": 1.4815,
+    "posZ": -6.5505,
+    "rotX": 0,
+    "rotY": 180.0006,
+    "rotZ": 0,
+    "scaleX": 1.12499869,
+    "scaleY": 1.24999809,
+    "scaleZ": 1.12499869
+  },
+  "Nickname": "Жетони пошкоджень",
+  "Description": "",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.7351916,
+    "g": 0.07056711,
+    "b": 0.0653129444
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": true,
+  "Grid": false,
+  "Snap": false,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": false,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": false,
+  "Hands": false,
+  "MaterialIndex": -1,
+  "MeshIndex": -1,
+  "CustomMesh": {
+    "MeshURL": "https://drive.google.com/uc?export=download&id=1P-zW132VuP12I8_kWv3CHmASWpYqa7VM",
+    "DiffuseURL": "",
+    "NormalURL": "",
+    "ColliderURL": "",
+    "Convex": true,
+    "MaterialIndex": 3,
+    "TypeIndex": 7,
+    "CustomShader": {
+      "SpecularColor": {
+        "r": 1,
+        "g": 1,
+        "b": 1
+      },
+      "SpecularIntensity": 0,
+      "SpecularSharpness": 2,
+      "FresnelStrength": 0
+    },
+    "CastShadows": true
+  },
+  "PhysicsMaterial": {
+    "StaticFriction": 0.6,
+    "DynamicFriction": 0.6,
+    "Bounciness": 0.65,
+    "FrictionCombine": 0,
+    "BounceCombine": 0
+  },
+  "Rigidbody": {
+    "Mass": 0.9062501,
+    "Drag": 0.1,
+    "AngularDrag": 0.1,
+    "UseGravity": true
+  },
+  "ContainedObjects": [
+    {
+      "GUID": "8785a7",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -25.3865,
+        "posY": 1.4815,
+        "posZ": -6.5505,
+        "rotX": 0,
+        "rotY": 180.0006,
+        "rotZ": 0,
+        "scaleX": 0.5,
+        "scaleY": 0.6,
+        "scaleZ": 0.5
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "ColorDiffuse": {
+        "r": 0.7351916,
+        "g": 0.07056718,
+        "b": 0.06531304
+      },
+      "Tags": [
+        "Damage"
+      ],
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": false,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "https://drive.google.com/uc?export=download&id=1P-zW132VuP12I8_kWv3CHmASWpYqa7VM",
+        "DiffuseURL": "",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 0,
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": ""
+    }
+  ]
+}
