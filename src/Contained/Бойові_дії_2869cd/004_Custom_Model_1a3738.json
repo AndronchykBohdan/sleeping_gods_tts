@@ -1,0 +1,65 @@
+{
+  "GUID": "1a3738",
+  "Name": "Custom_Model",
+  "Transform": {
+    "posX": -0.6994691,
+    "posY": 2.852251,
+    "posZ": -12.2381449,
+    "rotX": -0.004062573,
+    "rotY": 195.009735,
+    "rotZ": 180.001022,
+    "scaleX": 0.300001323,
+    "scaleY": 0.300001323,
+    "scaleZ": 0.300001323
+  },
+  "Nickname": "Бойова дії",
+  "Description": "",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.559233367,
+    "g": 0.559233367,
+    "b": 0.559233367
+  },
+  "Tags": [
+    "Combat"
+  ],
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": false,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": false,
+  "Hands": true,
+  "CustomMesh": {
+    "MeshURL": "https://drive.google.com/uc?export=download&id=1j0X7KGqCmqJZPzbxr3x30eD1JQqWsbJp",
+    "DiffuseURL": "",
+    "NormalURL": "",
+    "ColliderURL": "",
+    "Convex": true,
+    "MaterialIndex": 0,
+    "TypeIndex": 0,
+    "CustomShader": {
+      "SpecularColor": {
+        "r": 1,
+        "g": 1,
+        "b": 1
+      },
+      "SpecularIntensity": 0,
+      "SpecularSharpness": 2,
+      "FresnelStrength": 0
+    },
+    "CastShadows": true
+  }
+}

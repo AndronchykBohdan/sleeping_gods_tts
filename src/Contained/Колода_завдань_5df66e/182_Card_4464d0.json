@@ -1,0 +1,44 @@
+{
+  "GUID": "4464d0",
+  "Name": "Card",
+  "Transform": {
+    "posX": 18.7238331,
+    "posY": 2.79806113,
+    "posZ": 10.4781189,
+    "rotX": -0.000005008956,
+    "rotY": 180,
+    "rotZ": 180,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Nickname": "З 182",
+  "Description": "",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "Hands": true,
+  "CardID": 241,
+  "SidewaysCard": false,
+  "ContainedObjects": []
+}
