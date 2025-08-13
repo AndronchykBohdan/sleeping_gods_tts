@@ -20,7 +20,7 @@
     "modding"
   ],
   "dependencies": {
-    "dotenv": "16.4.5",
-    "chokidar": "3.6.0"
+    "chokidar": "3.6.0",
+    "dotenv": "16.4.5"
   }
 }

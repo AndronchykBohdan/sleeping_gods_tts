@@ -1,8 +1,8 @@
 {
   "SaveName": "Sleeping Gods UA",
-  "EpochTime": 1754929396,
-  "Date": "8/11/2025 11:23:16 PM",
-  "VersionNumber": "0.0.1",
+  "EpochTime": 1755112125,
+  "Date": "8/14/2025 2:08:45 AM",
+  "VersionNumber": "v13.3",
   "GameMode": "Sleeping Gods UA",
   "GameType": "",
   "GameComplexity": "",
@@ -12,7 +12,7 @@
   "Table": "Table_None",
   "Sky": "Sky_Museum",
   "SkyURL": "https://drive.google.com/uc?export=download&id=1LGUkJMBpUi7h5sxYcYzK3c7SOUXCMSmF",
-  "Note": "",
+  "Note": "D02929",
   "TabStates": {
     "0": {
       "title": "Rules",
@@ -202,7 +202,16 @@
     "Hiding": 0
   },
   "ComponentTags": {
-    "labels": []
+    "labels": [
+      {
+        "displayed": "monster",
+        "normalized": "monster"
+      },
+      {
+        "displayed": "quests",
+        "normalized": "quests"
+      }
+    ]
   },
   "Turns": {
     "Enable": false,
