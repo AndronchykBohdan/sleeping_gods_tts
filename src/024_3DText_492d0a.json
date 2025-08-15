@@ -1,12 +1,12 @@
 {
-  "GUID": "8437ad",
+  "GUID": "492d0a",
   "Name": "3DText",
   "Transform": {
-    "posX": 20.5,
-    "posY": 1.5000006,
-    "posZ": 10.8000011,
+    "posX": -16.9219723,
+    "posY": 1.54999948,
+    "posZ": -0.6098548,
     "rotX": 90,
-    "rotY": 0.499800324,
+    "rotY": 0,
     "rotZ": 0,
     "scaleX": 1,
     "scaleY": 1,
@@ -40,7 +40,7 @@
   "HideWhenFaceDown": false,
   "Hands": false,
   "Text": {
-    "Text": "Активні завдання",
+    "Text": "Зона бою",
     "colorstate": {
       "r": 0.168627456,
       "g": 0.619607866,

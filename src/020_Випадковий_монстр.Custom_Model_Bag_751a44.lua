@@ -1,3 +1,4 @@
+
 -- Bag script: accept only cards with nickname "М n" (Cyrillic capital M and space), reject others, shuffle after accept.
 
 -- === Settings ===

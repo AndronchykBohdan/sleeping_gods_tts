@@ -2718,5 +2718,13 @@
     "file": "023_BlockSquare_580a54.json",
     "parent": null,
     "order": 22
+  },
+  {
+    "type": "3DText",
+    "nickname": null,
+    "guid": "492d0a",
+    "file": "024_3DText_492d0a.json",
+    "parent": null,
+    "order": 23
   }
 ]
